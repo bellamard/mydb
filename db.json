@@ -1,0 +1,116 @@
+{
+  "Events": [
+    {
+      "id": 1,
+      "title": "mise à jour du bureau",
+      "author": "rapport",
+      "codeAuthor": 1000,
+      "type": "pleniere",
+      "description": "mise à jour du bureau",
+      "updateDate": "2018-01-01T00:00:00",
+      "creactedAt": "2020-01-01"
+    },
+    {
+      "titre": "loi sur la dôte",
+      "author": "ballamard kiala",
+      "codeAuthor": "1",
+      "type": "projet de loi",
+      "description": "la dote a 500usd",
+      "updateDate": "2018-01-01T00:00:00",
+      "creactedAt": "2020-01-01",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "profileId": 1,
+      "creactedAt": "2020-01-01"
+    }
+  ],
+  "deputes": [
+    {
+      "id": 1,
+      "names": "ABOTOME BEKABISYA Roger",
+      "circonscription": "WATSA",
+      "poste": "",
+      "commission": ""
+    },
+    {
+      "names": "ADUBANGO ALI Emmanuel",
+      "circonscription": "MAHAGI",
+      "poste": "",
+      "commission": "SC",
+      "id": 3
+    },
+    {
+      "names": "ADIRODU DJARI Wilson",
+      "circonscription": "IRUMU",
+      "poste": "",
+      "commission": "PAJ",
+      "id": 2
+    },
+    {
+      "names": "ADUBANGO AWOTHO Samuel",
+      "circonscription": "MAHAGI",
+      "poste": "",
+      "commission": "SC",
+      "": "",
+      "id": 4
+    },
+    {
+      "names": "AFOOTE AFOTUKU Anatole",
+      "circonscription": "DJOLU",
+      "poste": "",
+      "commission": "ECOFIN",
+      "id": 5
+    },
+    {
+      "names": "MBOSO N’ KODIA PWANGA Christophe",
+      "circonscription": "KENGE",
+      "poste": "PRÉSIDENT",
+      "commission": "PAJ",
+      "id": 6
+    },
+    {
+      "names": "KABUND-A-KABUND Jean-Marc",
+      "circonscription": "MONT AMBA",
+      "poste": "VICE-PRÉSIDENT",
+      "commission": "PAJ",
+      "id": 7
+    },
+    {
+      "names": "LOMBAKU LOHENDA Jean-Marc",
+      "circonscription": "LODJA",
+      "poste": "",
+      "commission": "DH",
+      "id": 8
+    },
+    {
+      "names": "BABANGA MPOTIYOLO Anicet",
+      "circonscription": "INONGO VILLE",
+      "poste": "",
+      "commission": "SE",
+      "id": 9
+    },
+    {
+      "names": "BABANGU WABABU Paul",
+      "circonscription": "IRUMU",
+      "poste": "",
+      "commission": "ETRNDD",
+      "id": 10
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "name": "bellamard",
+      "phone": 243895127236,
+      "mail": "belamard@gmail.com",
+      "password": "meshack"
+    }
+    
+  ]
+}
